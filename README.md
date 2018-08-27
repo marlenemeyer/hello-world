@@ -1,3 +1,4 @@
 # hello-world
 Training Manual
-This is to get familiar with Git and making changes.
+That's new: This is to get familiar with Git and making changes.
+
